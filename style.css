@@ -6,6 +6,12 @@ body{
     width: auto;
 }
 
+button{
+    display:flex;
+    flex-direction: column;
+    align-self: flex-start;
+}
+
 .container{
     display:flex;
     flex-wrap: wrap;
